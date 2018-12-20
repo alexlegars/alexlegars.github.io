@@ -1,0 +1,29 @@
+{
+    "map_garbage":  [
+        {
+            "location":"Le Yangtze",
+            "coord":[  121.473701 , 31.230416 ],
+            "plastic": 40
+        },
+        {
+            "location":"Le Gange",
+            "coord":[  22.546208, 90.896355 ],
+            "plastic": 20
+        },
+        {
+            "location":"Le Xi",
+            "coord":[ -74.0721, 4.7110 ],
+            "plastic": 8
+        },
+        {
+            "location":"Golf de Guinée",
+            "coord":[ 2.664871, 5.700543 ],
+            "plastic": 4.3
+        },
+        {
+            "location":"L'Amazone",
+            "coord":[ -45.018674, 3.063200 ],
+            "plastic": 4
+        }
+    ]
+}
